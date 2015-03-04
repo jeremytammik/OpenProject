@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application OpenProject</Name>
+    <Assembly>OpenProject.dll</Assembly>
+    <FullClassName>OpenProject.App</FullClassName>
+    <ClientId>25d56f87-2a5e-4340-86d3-4bc5c78b3b02</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
