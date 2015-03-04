@@ -1,5 +1,5 @@
 # OpenProject
-Revit add-in using the ApplicationInitialized event to automatically open an RVT project document on start-up, described in detail in the discussion on
+Revit add-in using the ApplicationInitialized event to automatically load and open an RVT project document on start-up, described in detail in the discussion on
 [Automatically Open a Project on Startup](...).
 
 
